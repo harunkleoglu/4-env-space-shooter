@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711244504 source:c:\users\harun\onedrive\desktop\cpp_projects\mingw-space-shooter\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<stdio.h>
+	<time.h>
+	<chrono>
+	<thread>
+
