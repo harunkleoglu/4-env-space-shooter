@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711595530 source:c:\users\harun\onedrive\desktop\cpp_projects\winbgi-space-shooter\main.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<chrono>
+	<thread>
+
